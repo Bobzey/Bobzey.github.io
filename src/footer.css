@@ -1,0 +1,17 @@
+.footer_bar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #393E46;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Three equal columns */
+    gap: 10px; /* Adjust the gap between elements */
+  }
+
+  
