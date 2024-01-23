@@ -1,0 +1,15 @@
+img{
+    width: 75vh;
+    display: inline;
+}
+
+.laurelBox {
+    display: flex;
+    width: 75vh;
+    justify-content: center;
+  }
+  
+.laurel {
+    padding-left: 15vh;
+    height: 70vh;
+  }
