@@ -11,13 +11,14 @@ nav {
   padding-left: 170px;
   border-bottom: 1px solid  #BFBFBF;
   z-index: 3;
+  width: 100vw;
 }
 
 ul {
   list-style-type: none;
   display: flex;
   justify-content: space-between;
-  width: 100%;
+  width: 90%;
 }
 
 li {
@@ -28,7 +29,7 @@ a {
   text-decoration: none;
   font-family: mixta-didone, serif;
   color: #BFBFBF;
-  padding: 10px;
+  padding-left: 10px;
   transition: background-color 0.3s ease;
   text-align: center;
 }
