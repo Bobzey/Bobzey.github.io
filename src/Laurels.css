@@ -1,15 +1,15 @@
 img{
-    width: 75vh;
-    display: inline;
+  width: 20%;
+  display: inline;
 }
 
 .laurelBox {
-    display: flex;
-    width: 75vh;
-    justify-content: center;
-  }
-  
+  display: flex;
+  width: 75vh;
+  justify-content: center;
+}
+
 .laurel {
-    padding-left: 15vh;
-    height: 70vh;
-  }
+  padding-left: 15vh;
+}
+
