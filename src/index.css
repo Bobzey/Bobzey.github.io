@@ -8,6 +8,7 @@ body {
   overscroll-behavior-y: none;
   overscroll-behavior-x: none;
   overflow-x: hidden;
+  
 }
 
 code {
@@ -17,4 +18,5 @@ code {
 
 html{
   background-color: #127369;
+
 }
