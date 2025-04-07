@@ -2,6 +2,7 @@
   "name": "jack_portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Bobzey.github.io",
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
     "@emotion/react": "^11.11.3",
